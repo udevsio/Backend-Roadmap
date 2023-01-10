@@ -64,6 +64,7 @@ The roadmap is made for anyone who wants to become a modern back-end developer, 
 
 ## 2.1 Git
 * Sources
+    - [Practice git online](https://learngitbranching.js.org/)
     - [Learn Git In 15 Minutes](https://youtu.be/USjZcfj8yxE)
     - [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
     - [Git for Everybody: Creating and adding your SSH Key (Windows, Mac and Linux)](https://youtu.be/Z3ELWci34cM)
